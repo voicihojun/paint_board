@@ -33,6 +33,11 @@ button {
   justify-content: center;
 }
 
+.container__input {
+  display: flex;
+  justify-content: center;
+}
+
 .color {
   width: 30px;
   height: 30px;
